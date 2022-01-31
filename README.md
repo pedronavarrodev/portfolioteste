@@ -1,2 +1,14 @@
-# portfolioteste
-teste
+# Portfólio
+
+Portfólio do desenvolvedor
+
+## Tarefas
+
+ O controle das tarefas desse projeto será realizado no GitHub.
+
+## Ícones
+
+- :package: nova funcionalidade
+- :up: atualização de formatação
+- :beetle: correção de bug
+- :checkered_flag: release
